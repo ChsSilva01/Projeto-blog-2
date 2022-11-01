@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem codigo="150">
+        <titulo>Notícia 1</titulo>
+        <corpo>Primeira Notícia Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit provident incidunt ex, eligendi quas enim itaque ipsa quam assumenda, velit temporibus, libero iusto eveniet qui doloremque vero ut aut quaerat eaque odio. Neque laudantium earum, culpa, esse tenetur excepturi cupiditate eius commodi accusantium laboriosam a magnam soluta dignissimos? Explicabo, velit!</corpo>
+        <imagem>hulk.jpg</imagem>
+    </postagem>
+     <postagem codigo="151">
+        <titulo>Notícia 2</titulo>
+        <corpo>Segunda Notícia Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit provident incidunt ex, eligendi quas enim itaque ipsa quam assumenda, velit temporibus, libero iusto eveniet qui doloremque vero ut aut quaerat eaque odio. Neque laudantium earum, culpa, esse tenetur excepturi cupiditate eius commodi accusantium laboriosam a magnam soluta dignissimos? Explicabo, velit!</corpo>
+        <imagem>mm.png</imagem>
+    </postagem>
+     <postagem codigo="152">
+        <titulo>Notícia 2</titulo>
+        <corpo>Segunda Notícia Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit provident incidunt ex, eligendi quas enim itaque ipsa quam assumenda, velit temporibus, libero iusto eveniet qui doloremque vero ut aut quaerat eaque odio. Neque laudantium earum, culpa, esse tenetur excepturi cupiditate eius commodi accusantium laboriosam a magnam soluta dignissimos? Explicabo, velit!</corpo>
+        <imagem>wolverine.jpg</imagem>
+    </postagem>
+</conteudo>
